@@ -1,0 +1,239 @@
+#padrin {
+
+
+
+background-image: url(images/burger.jpg);
+     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 125vh;
+    font-family: 'Vollkorn SC', serif;
+    font-size: 30px;
+
+
+
+}
+ 
+
+#logo {
+    position: relative;
+
+    margin-left: 0px;
+
+    opacity: 100%;
+
+    top: 10px;
+
+}
+
+.navbar-nav>li {
+
+
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 60px;
+ 
+
+}
+
+#parag {
+
+    font-size: 45px;
+    margin-top: 135px;
+
+    font-family: 'Sigmar One', cursive;
+    color: black;
+
+
+
+}
+
+hr {
+    width: 15%;
+    height: 10px;
+    background-color: red;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    border-width: 2px;
+    border-color: green;
+}
+
+#parag1 {
+
+    font-size: 30px;
+
+
+
+}
+
+#partie2 {
+    position: relative;
+
+    background-color: black;
+
+
+}
+
+h1 {
+    color: #BB0404;
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+}
+
+#carouselExampleIndicators {
+
+
+    width: 700px;
+    margin-top: 100px;
+
+
+}
+
+#bouton {
+
+    background-color: #100F0F;
+    height: 100PX;
+    font-family: 'Jolly Lodger', cursive;
+
+}
+
+#haraires {
+
+
+    background-image: url(images/table.png);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+  height: 80vh;
+  font-size: 50px;
+  font-family: 'Noto Serif', serif;
+  color:#BB0404 ;
+}
+#bar{
+    background-image: url(images/bar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    
+    
+}
+#bg{
+    background: #100F0F;
+    min-height: 600px;
+}
+h2{
+
+    color:#BB0404;
+    font-size: 150px;
+    font-family: 'Secular One', sans-serif;
+    
+}
+#ringo{
+
+
+    font-size: 50px;
+    font-family: 'Habibi', serif ;
+    margin-top: 150px;
+    font-family: 'PT Sans', sans-serif;
+    
+    
+}
+#btn{
+    font-family: 'Jolly Lodger', cursive;
+
+
+
+}
+.pb{
+
+    color: white;
+    font-size: 50px;
+    margin-top: 50px;
+}
+span{
+
+    color:#BB0404;
+    font-size:40px ;
+    
+}
+#petitdej{
+
+
+    background-color: black;
+    min-height: 100vh;
+}
+
+a.nav-link:before{
+    content:"";
+    height:5px;
+     width:0px;
+    background:white;
+    position:absolute;
+    margin-top:45px;
+    transition: width 0.5s;
+}
+
+a.nav-link:hover:before{
+
+    width:150px;
+    
+}
+#fraise{
+
+    color: #BB0404;
+    font-size:40px ;
+    font-family: 'Vast Shadow', cursive;
+
+}
+
+
+#loc{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    color: white;
+ 
+    
+}
+.loco{
+    background-color: black;
+}
+.color {
+    font-size: 25px;
+    
+    color:#707070;
+     
+
+}
+.cadre{
+
+    border: 2px solid red;
+}
+.fin{
+
+    background-color: black;
+}
+#contact{
+     text-align: center;
+     justify-content: center;
+     
+    font-size: 30px;
+
+
+    color:white ;
+}
+footer{
+
+    background-color: black;
+    height: 15VH;
+}
+.resau{ position: absolute;
+    right: 30px;
+   
+
+    height: 50px ;
+    width: 150px ;
+}

@@ -1,0 +1,57 @@
+.navbar-dark .navbar-toggler-icon {background-image: url(IMAGES/hamburger-menu-icon-png-5.jpg);
+    z-index: 999;
+    
+
+}.navbar{
+    background-color: white;
+    background-size: cover;
+
+
+
+}
+
+#parag{
+
+    font-size: 35px;
+}
+hr{
+    width: 25%;
+    height: 10px;
+    background-color: red;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    border-width: 2px ;
+    border-color: green ;
+}
+#parag1{
+    background-image:url(IMAGES/burger.jpg) ;
+    
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 35px;
+} 
+#carouselExampleIndicators{
+
+
+    width: 450px;
+    margin-top: 100px;
+    
+ }
+ 
+ #fraise{
+
+
+    background-color: black;
+    font-size: 30px;
+ }
+ h1{
+
+  font-size: 40px;
+ }
+ #wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3{
+
+    width: 100%!important;
+ }
