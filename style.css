@@ -236,3 +236,7 @@ footer{
     height: 50px ;
     width: 150px ;
 }
+ .col-lg-4 .img-fluid{
+width: 700px;
+
+ }
